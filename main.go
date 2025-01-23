@@ -83,7 +83,7 @@ func initPostgres() {
 	//Declaring Variables
 	POSTGRES_HOST := "postgres"
 	POSTGRES_USER := "postgres"
-	POSTGRES_PASSWORD := "Omowunmi28"
+	POSTGRES_PASSWORD := "Barakat007"
 	POSTGRES_DB_NEW := "votingdb"
 	POSTGRES_DB := "postgres"
 

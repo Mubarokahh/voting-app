@@ -15,13 +15,13 @@ import (
 // 	// Mock environment variables
 // 	// os.Setenv("POSTGRES_HOST", "localhost")
 // 	// os.Setenv("POSTGRES_USER", "postgres")
-// 	// os.Setenv("POSTGRES_PASSWORD", "Omowunmi28")
+// 	// os.Setenv("POSTGRES_PASSWORD", "Barakat007")
 // 	// os.Setenv("POSTGRES_DB_NEW", "votingdb")
 // 	// os.Setenv("POSTGRES_DB", "postgres")
 
 // 	// POSTGRES_HOST := "localhost"
 // 	// POSTGRES_USER := "postgres"
-// 	// POSTGRES_PASSWORD := "Omowunmi28"
+// 	// POSTGRES_PASSWORD := "Barakat007"
 // 	// POSTGRES_DB_NEW := "votingdb"
 // 	// POSTGRES_DB := "postgres"
 
